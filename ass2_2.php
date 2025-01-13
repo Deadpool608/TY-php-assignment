@@ -8,7 +8,7 @@
 <body>
     <form method="post">
         <input placeholder="num1" type="text" name="n1">
-        <input placeholder="num1" type="text" name="n2">
+        <input placeholder="num2" type="text" name="n2">
         <input type="submit" value="Generate">
     </form>
 
