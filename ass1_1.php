@@ -19,7 +19,7 @@
              echo"number is positive"; echo"<br/>";
         }
     }
-    num(10);
+    num(12);
     num(-2);
     num(0);
    ?>
